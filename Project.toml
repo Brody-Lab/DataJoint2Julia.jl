@@ -1,0 +1,7 @@
+name = "DataJoint2Julia"
+uuid = "2d4e1830-90f6-49fb-bc48-3a0fc30d3cbd"
+version = "0.1.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
